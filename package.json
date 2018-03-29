@@ -1,0 +1,14 @@
+{
+  "name": "postcss-pxtransform",
+  "version": "0.0.1",
+  "description": "px转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luckyadam",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^6.0.21"
+  }
+}
